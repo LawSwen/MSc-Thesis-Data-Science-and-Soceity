@@ -3,7 +3,7 @@
 
 ## <span style="color:#DFC57B; text-decoration:underline; text-style:bold"> Project Overview </span>
 This respository hosts the code for the MSc Thesis *Sparse-Aware Deep Learning for Air Quality Forecasting: Simulating Data Gaps to Enchance Model Robustness in Resource-Constrained Environments*\
-This project investigates the stability and behavior of Seq2Seq model in the presence of sparsity. It follows with an alternative framwork that seeks to directly model sparsity rather then rely on imputaton methods. This frameworks is build with an encoder-decoder layers that uses Time-aware GRU with masked attetion mechanism to learn directly from sparsity in air qaulity series. When proven viable, this framework may be useful for places with limited sensor coverage, poor data standards and limited technical resources. 
+This project investigates the stability and behavior of Seq2Seq model in the presence of sparsity. It follows with an alternative framwork that seeks to directly model sparsity rather then rely on imputaton methods. This frameworks is build with an encoder-decoder layers that uses Time-aware GRU with masked attention mechanism to learn directly from sparsity in air qaulity series. When proven viable, this framework may be useful for places with limited sensor coverage, poor data standards and limited technical resources. 
 
 ## <span style="color:#DFC57B; text-decoration:underline; text-style:bold"> Repository Design </span>
 
